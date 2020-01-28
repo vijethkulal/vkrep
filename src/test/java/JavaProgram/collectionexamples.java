@@ -1,8 +1,7 @@
 package JavaProgram;
 
-import com.google.gson.internal.bind.util.ISO8601Utils;
-
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class collectionexamples {
 
@@ -15,6 +14,8 @@ public class collectionexamples {
 
         for (String i : ls) {
             System.out.println(i);
+
+            // System.out.println(i);
         }
 
     }
